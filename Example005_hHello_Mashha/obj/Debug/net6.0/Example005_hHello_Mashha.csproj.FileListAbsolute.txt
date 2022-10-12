@@ -1,0 +1,15 @@
+C:\Users\kistanovnk\Desktop\Examples C#\Example005_hHello_Mashha\bin\Debug\net6.0\Example005_hHello_Mashha.exe
+C:\Users\kistanovnk\Desktop\Examples C#\Example005_hHello_Mashha\bin\Debug\net6.0\Example005_hHello_Mashha.deps.json
+C:\Users\kistanovnk\Desktop\Examples C#\Example005_hHello_Mashha\bin\Debug\net6.0\Example005_hHello_Mashha.runtimeconfig.json
+C:\Users\kistanovnk\Desktop\Examples C#\Example005_hHello_Mashha\bin\Debug\net6.0\Example005_hHello_Mashha.dll
+C:\Users\kistanovnk\Desktop\Examples C#\Example005_hHello_Mashha\bin\Debug\net6.0\Example005_hHello_Mashha.pdb
+C:\Users\kistanovnk\Desktop\Examples C#\Example005_hHello_Mashha\obj\Debug\net6.0\Example005_hHello_Mashha.csproj.AssemblyReference.cache
+C:\Users\kistanovnk\Desktop\Examples C#\Example005_hHello_Mashha\obj\Debug\net6.0\Example005_hHello_Mashha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kistanovnk\Desktop\Examples C#\Example005_hHello_Mashha\obj\Debug\net6.0\Example005_hHello_Mashha.AssemblyInfoInputs.cache
+C:\Users\kistanovnk\Desktop\Examples C#\Example005_hHello_Mashha\obj\Debug\net6.0\Example005_hHello_Mashha.AssemblyInfo.cs
+C:\Users\kistanovnk\Desktop\Examples C#\Example005_hHello_Mashha\obj\Debug\net6.0\Example005_hHello_Mashha.csproj.CoreCompileInputs.cache
+C:\Users\kistanovnk\Desktop\Examples C#\Example005_hHello_Mashha\obj\Debug\net6.0\Example005_hHello_Mashha.dll
+C:\Users\kistanovnk\Desktop\Examples C#\Example005_hHello_Mashha\obj\Debug\net6.0\refint\Example005_hHello_Mashha.dll
+C:\Users\kistanovnk\Desktop\Examples C#\Example005_hHello_Mashha\obj\Debug\net6.0\Example005_hHello_Mashha.pdb
+C:\Users\kistanovnk\Desktop\Examples C#\Example005_hHello_Mashha\obj\Debug\net6.0\Example005_hHello_Mashha.genruntimeconfig.cache
+C:\Users\kistanovnk\Desktop\Examples C#\Example005_hHello_Mashha\obj\Debug\net6.0\ref\Example005_hHello_Mashha.dll
