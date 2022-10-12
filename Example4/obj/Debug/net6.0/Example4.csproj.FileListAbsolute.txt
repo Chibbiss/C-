@@ -1,0 +1,15 @@
+C:\Users\kistanovnk\Desktop\Examples C#\Example4\bin\Debug\net6.0\Example4.exe
+C:\Users\kistanovnk\Desktop\Examples C#\Example4\bin\Debug\net6.0\Example4.deps.json
+C:\Users\kistanovnk\Desktop\Examples C#\Example4\bin\Debug\net6.0\Example4.runtimeconfig.json
+C:\Users\kistanovnk\Desktop\Examples C#\Example4\bin\Debug\net6.0\Example4.dll
+C:\Users\kistanovnk\Desktop\Examples C#\Example4\bin\Debug\net6.0\Example4.pdb
+C:\Users\kistanovnk\Desktop\Examples C#\Example4\obj\Debug\net6.0\Example4.csproj.AssemblyReference.cache
+C:\Users\kistanovnk\Desktop\Examples C#\Example4\obj\Debug\net6.0\Example4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kistanovnk\Desktop\Examples C#\Example4\obj\Debug\net6.0\Example4.AssemblyInfoInputs.cache
+C:\Users\kistanovnk\Desktop\Examples C#\Example4\obj\Debug\net6.0\Example4.AssemblyInfo.cs
+C:\Users\kistanovnk\Desktop\Examples C#\Example4\obj\Debug\net6.0\Example4.csproj.CoreCompileInputs.cache
+C:\Users\kistanovnk\Desktop\Examples C#\Example4\obj\Debug\net6.0\Example4.dll
+C:\Users\kistanovnk\Desktop\Examples C#\Example4\obj\Debug\net6.0\refint\Example4.dll
+C:\Users\kistanovnk\Desktop\Examples C#\Example4\obj\Debug\net6.0\Example4.pdb
+C:\Users\kistanovnk\Desktop\Examples C#\Example4\obj\Debug\net6.0\Example4.genruntimeconfig.cache
+C:\Users\kistanovnk\Desktop\Examples C#\Example4\obj\Debug\net6.0\ref\Example4.dll
